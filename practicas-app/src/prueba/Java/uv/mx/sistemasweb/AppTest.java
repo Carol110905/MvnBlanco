@@ -1,5 +1,5 @@
 package uv.mx.sistemasweb;
-
+import static spark.Spark.*;
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
